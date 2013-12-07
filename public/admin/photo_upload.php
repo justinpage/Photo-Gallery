@@ -10,13 +10,13 @@ $max_file_size = 1048576; // expressed in bytes
 						  //  1048576 =   1 MB
 						  // 10486760 =	 10 MB
 
-$message = "";
 if(isset($_POST['submit'])) {
 	$photo = new Photograph();
 	$photo->caption = $_POST['caption'];
 	$photo->attach_file($_FILES['file_upload']);
 	if($photo->save()) {
-		$message = "Photograph uploaded successfully.";
+		$session->message("Photograph uploaded successfully.");
+		redirect_to("list_photos.php");
 	} else {
 		$message = join("<br>", $photo->errors);
 	}

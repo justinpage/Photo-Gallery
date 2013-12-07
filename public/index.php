@@ -1,16 +1,18 @@
 <?php require_once("../includes/initialize.php"); ?>
+<?php 
+	// find all photos
+	$photos = Photograph::find_all();
+ ?>
 <?php include_layout_template('header.php'); ?>
-<?php
-$user = User::find_by_id(1);
-echo $user->full_name();
 
-echo "<hr>";
+	<?php foreach ($photos as $photo) : ?>
+		<dv style="float: left; margin-left: 20px">
+			<a href="photo.php?id=<?=$photo->id;?>">
+				<img src="<?=$photo->image_path();?>" width="200">
+			</a>
+			<p><?=$photo->caption;?></p>
+		</dv>
+	<?php endforeach; ?>
 
-$users = User::find_all();
-foreach ($users as $user) {
-	echo "User: " . $user->username . "<br>";
-	echo "Name: " . $user->full_name() . "<br><br>";
-}
-?>
 <?php include_layout_template('footer.php'); ?>
 

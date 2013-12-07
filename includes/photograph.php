@@ -1,4 +1,4 @@
-<?php 
+<?php
 require_once(LIB_PATH.DS.'database.php');
 
 class Photograph extends DatabaseObject {
@@ -64,7 +64,7 @@ class Photograph extends DatabaseObject {
 
 			// can't save without filename and temp location
 			if(empty($this->filename) || empty($this->temp_path)) {
-				$this->errors[] "The file location was not available";
+				$this->errors[] = "The file location was not available";
 				return false;
 			}
 
@@ -73,7 +73,7 @@ class Photograph extends DatabaseObject {
 
 			// make sure a file doesn't already exist in the target location
 			if(file_exists($target_path)) {
-				$this->errors[] "The file {$this->filename} already exists";
+				$this->errors[] = "The file {$this->filename} already exists";
 				return false;
 			}
 
@@ -88,6 +88,34 @@ class Photograph extends DatabaseObject {
 			$this->errors[] = "The file upload failed, possibly due to incorrect permissions on the upload folder";
 			return true;
 
+		}
+	}
+
+	public function destroy() {
+		// First remove the database entry
+		if($this->delete()) {
+			// then remove the file
+			$target_path = SITE_ROOT.DS.'public'.DS.$this->image_path();
+			return unlink($target_path) ? true : false;
+		} else {
+			// database delete fialed
+			return false;
+		}
+	}
+
+	public function image_path() {
+		return $this->upload_dir.DS.$this->filename;
+	}
+
+	public function size_as_text() {
+		if($this->size < 1024) {
+			return "{$this->size} bytes";
+		} elseif($this->size < 1048576) {
+			$size_kb = round($this->size/1024);
+			return "{$size_kb} KB";
+		} else {
+			$size_mb = round($this->size/1048576, 1);
+			return "{$size_mb} MB";
 		}
 	}
 }
