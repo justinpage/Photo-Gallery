@@ -34,6 +34,16 @@ class  DatabaseObject {
 
 	}
 
+	public static function count_all() {
+		global $database;
+		$sql = "SELECT COUNT(*) FROM " .static::$table_name;
+		$result_set = $database->query($sql);
+		$row = $database->fetch_assoc_array($result_set);
+		return array_shift($row);
+
+	}
+
+
 	private static function instantiate($record) {
 		// could check that $exists and in an array
 		// simple, long-form approoach:
@@ -140,6 +150,8 @@ class  DatabaseObject {
 		$database->query($sql);
 		return ($database->affected_rows() == 1) ? true : false;
 	}
+
+
 }
 
 

@@ -1,0 +1,998 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pag",
+				"pagination"
+			],
+			[
+				"per",
+				"per_page"
+			],
+			[
+				"tot",
+				"total_pages"
+			],
+			[
+				"next",
+				"next_page"
+			],
+			[
+				"prev",
+				"previous_page"
+			],
+			[
+				"total",
+				"total_count"
+			],
+			[
+				"current",
+				"current_page"
+			],
+			[
+				"result_",
+				"result_set"
+			],
+			[
+				"redir",
+				"redirect_to"
+			],
+			[
+				"phot",
+				"photo_id"
+			],
+			[
+				"photo",
+				"photograph_id"
+			],
+			[
+				"targe",
+				"target_path"
+			],
+			[
+				"siz",
+				"size"
+			],
+			[
+				"targ",
+				"target_path"
+			],
+			[
+				"move",
+				"move_uploaded_file"
+			],
+			[
+				"uplo",
+				"upload_dir"
+			],
+			[
+				"proper",
+				"property_exists"
+			],
+			[
+				"attr",
+				"attributes"
+			],
+			[
+				"tab",
+				"table_name"
+			],
+			[
+				"foun",
+				"found_user"
+			],
+			[
+				"log",
+				"logfile"
+			],
+			[
+				"class",
+				"class_name"
+			],
+			[
+				"defin",
+				"defined"
+			],
+			[
+				"defi",
+				"defined"
+			],
+			[
+				"defie",
+				"define"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"check",
+				"check_login"
+			],
+			[
+				"logg",
+				"logged_in"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"cl",
+				"class_name"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"array_s",
+				"array_shift"
+			],
+			[
+				"res",
+				"result_array"
+			],
+			[
+				"ob",
+				"object_vars"
+			],
+			[
+				"a",
+				"attribute"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"last",
+				"last_query"
+			],
+			[
+				"resu",
+				"result_set"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"mysqli_conne",
+				"mysqli_connect_error"
+			],
+			[
+				"mysql",
+				"mysql_query"
+			],
+			[
+				"open",
+				"open_connection"
+			],
+			[
+				"mysql_err",
+				"mysql_error"
+			],
+			[
+				"DB_",
+				"DB_USER"
+			],
+			[
+				"le",
+				"leg_count"
+			],
+			[
+				"met",
+				"method_test"
+			],
+			[
+				"set",
+				"set_a"
+			],
+			[
+				"Sett",
+				"SetterGetterExample"
+			],
+			[
+				"hello",
+				"hello_me"
+			],
+			[
+				"example",
+				"exampleShow"
+			],
+			[
+				"show",
+				"show_abc"
+			],
+			[
+				"ca",
+				"car2"
+			],
+			[
+				"whee",
+				"wheelsdoors"
+			],
+			[
+				"car",
+				"car1"
+			],
+			[
+				"pro",
+				"property_exists"
+			],
+			[
+				"new",
+				"new_person"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"strip_",
+				"strip_zeros_from_date"
+			],
+			[
+				"mar",
+				"marked_string"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"watch",
+				"process.watchFile();"
+			],
+			[
+				"readF",
+				"fs.readFileSync(path, encoding);"
+			],
+			[
+				"con",
+				"console.log();"
+			],
+			[
+				"contents",
+				"contents	.contents()"
+			],
+			[
+				"data",
+				"data	.data()"
+			],
+			[
+				"session",
+				"session_destroy"
+			],
+			[
+				"found",
+				"found_admin"
+			],
+			[
+				"pass",
+				"password_check"
+			],
+			[
+				"find",
+				"find_admin_by_username"
+			],
+			[
+				"exi",
+				"existing_hash"
+			],
+			[
+				"uni",
+				"unique_random_string"
+			],
+			[
+				"base",
+				"base64_encode"
+			],
+			[
+				"mt",
+				"mt_rand"
+			],
+			[
+				"salt",
+				"salt_length"
+			],
+			[
+				"ad",
+				"admin_set"
+			],
+			[
+				"adm",
+				"admin"
+			],
+			[
+				"my",
+				"mysqli_fetch"
+			],
+			[
+				"curr",
+				"current_subject"
+			],
+			[
+				"find_page",
+				"find_pages_for_subject"
+			],
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"sub",
+				"subject_set"
+			],
+			[
+				"cu",
+				"current_subject"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"page",
+				"page_count"
+			],
+			[
+				"vis",
+				"visibility"
+			],
+			[
+				"su",
+				"subject_id"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"field",
+				"fieldname_as_text"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"ob_end",
+				"ob_end_flush"
+			],
+			[
+				"cur",
+				"current_page"
+			],
+			[
+				"selected",
+				"selected_subject_id"
+			],
+			[
+				"select",
+				"selected_subject_id"
+			],
+			[
+				"selecte",
+				"selected_page_id"
+			],
+			[
+				"see",
+				"selected_page_id"
+			],
+			[
+				"seleted",
+				"selected_subject_id"
+			],
+			[
+				"end",
+				"endwhile"
+			],
+			[
+				"req",
+				"require_once"
+			],
+			[
+				"co",
+				"connection"
+			],
+			[
+				"mysqli_fetc",
+				"mysqli_fetch_assoc"
+			],
+			[
+				"db",
+				"dbname"
+			],
+			[
+				"mysqli",
+				"mysqli_connect"
+			],
+			[
+				"p",
+				"pclose"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/var/www/laravel.dev/laravel/app/models/User.php",
+			"settings":
+			{
+				"buffer_size": 307,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "@extends('master')\n\n@section('main')\n	@foreach ($users as $user)\n		{{ $user->email  }}\n		<br />\n	@endforeach\n@endsection\n\n\n\n",
+			"file": "/var/www/laravel.dev/laravel/app/views/index.blade.php",
+			"file_size": 123,
+			"file_write_time": 130318308546058730,
+			"settings":
+			{
+				"buffer_size": 124,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"rea",
+				"ReadmePlease"
+			],
+			[
+				"read",
+				"ReadmePlease"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 1006.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/laravel.dev/laravel/app/routes.php",
+		"/var/www/laravel.dev/laravel/app/views/master.blade.php",
+		"/home/justin/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/justin/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/var/www/laravel.dev/laravel/app/config/database.php",
+		"/var/www/laravel.dev/laravel/vendor/laravel/framework/src/Illuminate/Support/helpers.php",
+		"/var/www/laravel.dev/laravel/vendor/predis/predis/lib/Predis/Helpers.php",
+		"/var/www/laravel.dev/laravel/app/views/about.php",
+		"/var/www/laravel.dev/laravel/public/.htaccess",
+		"/var/www/laravel.dev/laravel/bootstrap/autoload.php",
+		"/var/www/laravel.dev/laravel/vendor/laravel/framework/src/Illuminate/View/View.php",
+		"/var/www/laravel.dev/laravel/app/config/view.php",
+		"/var/www/laravel.dev/laravel/app/models/User.php",
+		"/var/www/laravel.dev/laravel/app/views/hello.php",
+		"/var/www/PHP_Beyond/photo_gallery/includes/database_object.php",
+		"/var/www/PHP_Beyond/photo_gallery/public/admin/photo_upload.php",
+		"/var/www/PHP_Beyond/photo_gallery/public/stylesheets/main.css",
+		"/var/www/PHP_Beyond/photo_gallery/includes/functions.php",
+		"/var/www/PHP_Beyond/photo_gallery/includes/comment.php",
+		"/var/www/PHP_Beyond/photo_gallery/includes/initialize.php",
+		"/var/www/PHP_Beyond/photo_gallery/public/index.php",
+		"/var/www/PHP_Beyond/photo_gallery/public/photo.php",
+		"/var/www/PHP_Beyond/photo_gallery/includes/PHPMailer/class.phpmailer.php",
+		"/var/www/PHP_Beyond/photo_gallery/includes/pagination.php",
+		"/var/www/PHP_Beyond/photo_gallery/public/admin/comments.php",
+		"/var/www/PHP_Beyond/photo_gallery/includes/photograph.php",
+		"/var/www/PHP_Beyond/photo_gallery/public/comments.php",
+		"/var/www/PHP_Beyond/photo_gallery/public/admin/delete_comment.php",
+		"/var/www/PHP_Beyond/photo_gallery/public/admin/list_photos.php",
+		"/var/www/PHP_Beyond/photo_gallery/public/admin/delete_photo.php",
+		"/var/www/PHP_Beyond/photo_gallery/public/admin/index.php",
+		"/var/www/PHP_Beyond/photo_gallery/includes/database.php",
+		"/var/www/PHP_Beyond/photo_gallery/includes/session.php",
+		"/var/www/PHP_Beyond/photo_gallery/public/admin/photographs.php",
+		"/home/justin/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/var/www/PHP_Beyond/photo_gallery/public/admin/test.php",
+		"/var/www/PHP_Beyond/photo_gallery/includes/user.php",
+		"/var/www/PHP_Beyond/photo_gallery/includes/config.php",
+		"/bin/sys_info_page",
+		"/var/www/PHP_Beyond/Exercise Files/Chapter09/09_04_photo_gallery/includes/user.php",
+		"/var/www/PHP_Beyond/Exercise Files/Chapter09/09_03_photo_gallery/includes/user.php",
+		"/var/www/PHP_Beyond/Exercise Files/Chapter09/09_02_photo_gallery/includes/user.php",
+		"/var/www/PHP_Beyond/photo_gallery/public/admin/logout.php",
+		"/var/www/PHP_Beyond/photo_gallery/public/admin/logfile.php",
+		"/var/www/PHP_Beyond/photo_gallery/public/admin/login.php",
+		"/var/www/PHP_Beyond/photo_gallery/logs/log.txt",
+		"/var/www/PHP_Beyond/photo_gallery/public/layouts/footer.php",
+		"/var/www/PHP_Beyond/photo_gallery/public/layouts/header.php",
+		"/var/www/PHP_Beyond/photo_gallery/public/layouts/admin_footer.php",
+		"/var/www/PHP_Beyond/photo_gallery/public/layouts/admin_header.php",
+		"/var/www/PHP_Beyond/Exercise Files/Chapter05/05_03_photo_gallery/public/stylesheets/main.css",
+		"/var/www/PHP_Beyond/_sandbox/constructors.php",
+		"/var/www/PHP_Beyond/_sandbox/references.php",
+		"/var/www/PHP_Beyond/_sandbox/parent.php",
+		"/var/www/PHP_Beyond/_sandbox/static_modifier.php",
+		"/var/www/PHP_Beyond/_sandbox/access_modifiers2.php",
+		"/var/www/PHP_Beyond/_sandbox/access_modifiers.php",
+		"/var/www/PHP_Beyond/_sandbox/inheritance.php",
+		"/var/www/PHP_Beyond/_sandbox/class_example5.php",
+		"/var/www/PHP_Beyond/_sandbox/class_example4.php",
+		"/var/www/PHP_Beyond/_sandbox/class_example3.php",
+		"/var/www/PHP_Beyond/_sandbox/class_example2.php",
+		"/var/www/PHP_Beyond/_sandbox/references_returns.php",
+		"/var/www/PHP_Beyond/_sandbox/class_example.php",
+		"/var/www/PHP_Beyond/_sandbox/date_time_format.php",
+		"/var/www/PHP_Beyond/_sandbox/dates_time_unix.php",
+		"/var/www/PHP_Beyond/_sandbox/timer.html",
+		"/var/www/PHP_Beyond/_sandbox/server_variables.php",
+		"/var/www/PHP_Beyond/_sandbox/references_args.php",
+		"/var/www/PHP_Beyond/_sandbox/variable_scope.php",
+		"/var/www/PHP_Beyond/_sandbox/array_functions.php",
+		"/var/www/PHP_Beyond/_sandbox/variable_variables.php",
+		"/var/www/PHP_Beyond/my_phpinfo.php",
+		"/home/justin/Desktop/smile/index.html",
+		"/home/justin/Desktop/smile/css/styles.css",
+		"/home/justin/Desktop/smile/js/jquery.validate.js",
+		"/var/www/node.js/ciphers.js",
+		"/var/www/node.js/lesson_03/write_sync.js",
+		"/var/www/node.js/lesson_03/sample.txt",
+		"/var/www/node.js/configuration.js",
+		"/var/www/node.js/write_sync.js",
+		"/var/www/node.js/watch.js",
+		"/var/www/node.js/config.json",
+		"/var/www/node.js/read.js",
+		"/var/www/node.js/write_sync.txt",
+		"/var/www/node.js/sample.php",
+		"/var/www/node.js/sample.txt",
+		"/var/www/node.js/sample.js",
+		"/var/www/node.js/sample.html",
+		"/var/www/widget_corp/public/delete_page.php",
+		"/var/www/widget_corp/public/delete_admin.php",
+		"/var/www/widget_corp/public/create_subject.php",
+		"/var/www/widget_corp/public/create_page.php",
+		"/var/www/widget_corp/public/admin.php",
+		"/var/www/widget_corp/public/delete_subject.php",
+		"/var/www/widget_corp/public/edit_admin.php",
+		"/var/www/widget_corp/public/edit_page.php",
+		"/var/www/widget_corp/public/edit_subject.php",
+		"/var/www/widget_corp/public/manage_admins.php",
+		"/var/www/widget_corp/public/manage_content.php",
+		"/var/www/widget_corp/public/new_admin.php",
+		"/var/www/widget_corp/public/new_page.php",
+		"/var/www/widget_corp/public/new_subject.php",
+		"/var/www/widget_corp/public/login.php",
+		"/var/www/widget_corp/includes/functions.php",
+		"/var/www/PHP_Essentials/Chapter 19/19_09-final/widget_corp/public/manage_admins.php",
+		"/var/www/widget_corp/includes/layouts/header.php",
+		"/var/www/widget_corp/public/index.php",
+		"/var/www/PHP_Essentials/Chapter 19/19_02/widget_corp-solution/includes/functions.php",
+		"/var/www/widget_corp/includes/validation_functions.php",
+		"/var/www/PHP_Essentials/Chapter 17/17_12/widget_corp/public/new_page.php",
+		"/var/www/PHP_Essentials/Chapter 17/17_12/widget_corp/public/manage_content.php",
+		"/var/www/PHP_Essentials/Chapter 17/17_12/widget_corp/includes/functions.php",
+		"/var/www/widget_corp/public/stylesheets/public.css",
+		"/var/www/widget_corp/includes/session.php",
+		"/var/www/widget_corp/public/delete__subject.php",
+		"/var/www/PHP_Essentials/_sandbox/form_processing.php",
+		"/var/www/PHP_Essentials/_sandbox/databases_insert.php",
+		"/var/www/PHP_Essentials/_sandbox/validation_functions.php",
+		"/var/www/widget_corp/includes/layouts/footer.php",
+		"/var/www/PHP_Essentials/_sandbox/databases.php",
+		"/var/www/widget_corp/includes/db_connection.php",
+		"/var/www/widget_corp/includes/footer.php",
+		"/var/www/widget_corp/includes/header.php",
+		"/var/www/widget_corp/public/admin2.php",
+		"/var/www/PHP_Essentials/Chapter 15/15_04/public.css",
+		"/var/www/PHP_Essentials/_sandbox/databases_delete.php",
+		"/var/www/PHP_Essentials/_sandbox/databases_update.php"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"",
+			"test.php",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"table",
+			"main",
+			"About",
+			"content",
+			"thing",
+			"make",
+			");\n",
+			"message",
+			"subject",
+			"to_name",
+			"from",
+			"send_notification",
+			"`",
+			"'",
+			"has_next_page",
+			"comment",
+			"sql",
+			"photo",
+			"destroy",
+			"photo",
+			"Photograph",
+			"variable",
+			"comments",
+			"photograph",
+			"LIB_PATH",
+			"object_array",
+			"comment",
+			"author",
+			"photograph_id",
+			"caption",
+			"size",
+			"public",
+			"type",
+			"filename",
+			"caption",
+			"size",
+			"type",
+			"filename",
+			"ctrl+alt+",
+			"Ctrl",
+			"destination",
+			"user",
+			"self",
+			"DatabaseObject",
+			"4",
+			"3",
+			"();\n",
+			"sanitized_attributes",
+			"attribute",
+			":50",
+			"attribute",
+			"		return array_key_exists($",
+			"attribute",
+			"users",
+			"\n",
+			"->",
+			"password",
+			"mode",
+			"))",
+			"clear",
+			"admin_header",
+			"data",
+			"mode",
+			"string",
+			"mode",
+			"self",
+			"functions",
+			"username",
+			"connction",
+			"text",
+			"username",
+			"Username",
+			"username",
+			"database",
+			"user",
+			"User",
+			"user",
+			"User",
+			"user",
+			"password",
+			"username",
+			"id",
+			"found_user",
+			"User",
+			"query",
+			"private",
+			"result",
+			"result_set",
+			"query",
+			"DB_SERVER",
+			"widget_corp",
+			"battosai",
+			"box_clone",
+			"Beverage",
+			"4",
+			"();\n",
+			"a",
+			"A",
+			"a",
+			"A",
+			"a",
+			"A",
+			"self",
+			"Two",
+			"One",
+			"Students",
+			"total_students",
+			">;\n",
+			"hello_family",
+			"hello_everyone",
+			"hello_family",
+			"hello_everyone",
+			"public",
+			"b",
+			"a",
+			"class_name",
+			"first_name",
+			">\";",
+			" ",
+			" \"",
+			"key",
+			"Assignment",
+			"SCRIPT_FILENAME",
+			"SERVER_PORT",
+			"SERVER_ADDR",
+			"SERVER_NAME",
+			"test2",
+			"test1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/var/www/laravel.dev/laravel/app/models/User.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 307,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								307,
+								307
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/var/www/laravel.dev/laravel/app/views/index.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 124,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								121,
+								121
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "laravel.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"helpers.",
+				"laravel/vendor/laravel/framework/src/Illuminate/Support/helpers.php"
+			],
+			[
+				"helpers",
+				"laravel/vendor/predis/predis/lib/Predis/Helpers.php"
+			],
+			[
+				"view",
+				"laravel/vendor/laravel/framework/src/Illuminate/View/View.php"
+			],
+			[
+				"rout",
+				"laravel/app/routes.php"
+			],
+			[
+				"publ",
+				"public/stylesheets/public.css"
+			],
+			[
+				"",
+				"public/admin.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"PHP",
+				"/var/www/PHP_Essentials/_sandbox/PHP.sublime-project"
+			],
+			[
+				"",
+				"/var/www/PHP_Beyond/photo_gallery/includes/laravel.sublime-project"
+			],
+			[
+				"PH",
+				"/var/www/PHP_Beyond/PHP_beyond.sublime-project"
+			],
+			[
+				"php",
+				"/var/www/PHP_Beyond/PHP_beyond.sublime-project"
+			],
+			[
+				"back",
+				"/var/www/node.js/lesson_06/files/backbone.sublime-project"
+			],
+			[
+				"Be",
+				"/var/www/PHP_Beyond/PHP_beyond.sublime-project"
+			],
+			[
+				"wid",
+				"/var/www/widget_corp/public/widget.sublime-project"
+			],
+			[
+				"no",
+				"/var/www/node.js/node.sublime-project"
+			],
+			[
+				"node",
+				"/var/www/node.js/node.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 219.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

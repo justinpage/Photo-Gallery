@@ -18,6 +18,7 @@ $photos = Photograph::find_all();
 		<th>Caption</th>
 		<th>Size</th>
 		<th>Type</th>
+		<th>Comments</th>
 		<th>&nbsp;</th>
 	</tr>
 	<?php foreach ($photos as $photo): ?>
@@ -27,6 +28,10 @@ $photos = Photograph::find_all();
 		<td><?=$photo->caption;?></td>
 		<td><?=$photo->size_as_text();?></td>
 		<td><?=$photo->type;?></td>
+		<td><a href="comments.php?id=<?=$photo->id;?>">
+			<?=count($photo->comments());?>
+			</a>
+		</td>
 		<td><a href="delete_photo.php?id=<?=$photo->id;?>">Delete</a></td>
 	</tr>
 	<?php endforeach; ?>
